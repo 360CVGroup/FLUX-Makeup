@@ -1,0 +1,1 @@
+python eval.py --model model/checkpoint/checkpoint.pt
