@@ -20,6 +20,21 @@ We propose **FLUX-Makeup**, a high-fidelity, identityconsistent, and robust make
 pip install -r requirements.txt
 ```
 
+## 📂 Preparation of Pretrained Models
+
+We provide pretrained weights for evaluation and deployment. Please download the `checkpoint.pt` files from [here](https://huggingface.co/qihoo360/FLUX-Makeup) and place them in the model directory.
+Also, please download the `79999_iter.pth` files from [here](https://huggingface.co/qihoo360/FLUX-Makeup) and place them in the model directory.
+In addition, download the pretrained weights of **Flux-Kontext.dev** from [here](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev) to serve as the backbone model.
+
+## 📂 ComfyUI
+
+You can use ComfyUI within Flux_Makeup_ComfyUI, where the model folders need to be placed in:
+
+`Flux_Makeup_ComfyUI/models/stable_makeup`
+  
+
+  
+
 ## ⏳ Inference Pipeline
 
 Here we provide the inference code for our FLUX-Makeup.
