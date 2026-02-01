@@ -340,7 +340,7 @@ class StableMakeup_LoadModel:
     def INPUT_TYPES(cls):
         return {
             "required": {
-                "flux_path": ("STRING", {"default": "FLUX.1-Kontext-dev"}),
+                "flux_path": ("STRING", {"default": "models/stable_makeup/FLUX.1-Kontext-dev"}),
                 "makeup_model_path": ("STRING", {"default": "models/stable_makeup/Flux-Makeup-model/checkpoint.pt"}),
             }
         }

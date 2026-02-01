@@ -53,8 +53,8 @@
         "Node name for S&R":"StableMakeup_LoadModel"
       },
       "widgets_values":[
-        "/cpfs01/liushanyuan/model/FLUX.1-Kontext-dev",
-        "models/stable_makeup/project-16/checkpoint-310000/checkpoint.pt"
+        "models/stable_makeup/FLUX.1-Kontext-dev",
+        "models/stable_makeup/Flux-Makeup-model/checkpoint.pt"
       ]
     },
     {
