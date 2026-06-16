@@ -1,8 +1,8 @@
 # FLUX-Makeup: High-Fidelity, Identity-Consistent, and Robust Makeup Transfer via Diffusion Transformer
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FLUX_Makeup-ff9900?style=flat)](https://huggingface.co/qihoo360/FLUX-Makeup) [![arXiv](https://img.shields.io/badge/arXiv-2508.05069-B31B1B?style=flat)](https://arxiv.org/abs/2508.05069)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FLUX_Makeup-ff9900?style=flat)](https://huggingface.co/qihoo360/FLUX-Makeup) [![arXiv](https://img.shields.io/badge/arXiv-2508.05069-B31B1B?style=flat)](https://arxiv.org/abs/2508.05069) [![App](https://img.shields.io/badge/App-美片--AppleStore-green.svg)](https://apps.apple.com/cn/app/%E7%BE%8E%E7%89%87-%E5%9B%BE%E7%89%87%E7%BE%8E%E5%8C%96%E5%A4%84%E7%90%86%E7%A5%9E%E5%99%A8/id6636528066)  
 
-![examples](assets/example.png)
+![examples](assets/example.png)  
 
 We propose **FLUX-Makeup**, a high-fidelity, identityconsistent, and robust makeup transfer framework that eliminates the need for any auxiliary face-control components.
 
